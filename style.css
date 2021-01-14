@@ -24,3 +24,17 @@
     background-color: white;
     border: 0px;
 }
+.half-width img{
+    width: 100%;
+       
+}
+.logo{
+
+    width: 450px;
+    height: 90px;
+}
+.top-hw{
+
+    margin-top: 50px;
+}
+
